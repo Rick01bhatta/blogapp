@@ -11,17 +11,17 @@ Built with a modern UI and powered by **TinyMCE** for rich text editing.
 - 🖼️ Upload and attach images to notes  
 - 📝 Rich text editor powered by **TinyMCE**  
 - 📁 Organized note management  
-- 💾 Data stored securely (add your backend/database info here)
+- 💾 Data stored securely in appwrite
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Frontend:** React / Next.js  
+- **Frontend:** React  
 - **Backend:** Appwrite
 - **Database:** Appwrite file storage  
 - **Rich Text Editor:** TinyMCE  
-- **File Storage:** (e.g., Cloudinary / Local uploads)
+- **File Storage:** Cloudinary 
 
 ---
 
@@ -38,4 +38,4 @@ cd BlogApp
 npm install
 
 # Run the app
-npm start
+npm run dev
